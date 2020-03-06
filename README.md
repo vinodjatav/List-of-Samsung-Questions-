@@ -20,9 +20,9 @@ https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
 https://www.geeksforgeeks.org/delete-occurrences-given-key-linked-list/
 9) Multiply two polynomials II
 https://www.geeksforgeeks.org/multiplication-of-two-polynomials-using-linked-list/
-10)LRU Cache
+10) LRU Cache
 https://www.geeksforgeeks.org/lru-cache-implementation/
-11)Detect Loop in linked list
+11) Detect Loop in linked list
 https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
 
 ## Bit Magic Questions of Samsung!
@@ -58,17 +58,17 @@ https://www.geeksforgeeks.org/sudo-placement1-3-final-destination/
 https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/
 9) Find Last Digit Of a^b for Large Numbers
 https://www.geeksforgeeks.org/find-last-digit-of-ab-for-large-numbers/
-10)Sum of all prime numbers between 1 and N.
+10) Sum of all prime numbers between 1 and N.
 https://www.geeksforgeeks.org/program-find-sum-prime-numbers-1-n/
-11)Faithful Numbers
+11) Faithful Numbers
 https://www.geeksforgeeks.org/find-nth-magic-number/
-12)Multiply two polynomials
+12) Multiply two polynomials
 https://www.geeksforgeeks.org/multiply-two-polynomials-2/
-13)Pattern Jumping
+13) Pattern Jumping
 https://www.geeksforgeeks.org/print-all-jumping-numbers-smaller-than-or-equal-to-a-given-value
-14)Number of Palindromic paths in a Matrix
+14) Number of Palindromic paths in a Matrix
 https://www.geeksforgeeks.org/number-of-palindromic-paths-in-a-matrix/
-15)Count numbers divisible by M
+15) Count numbers divisible by M
 https://www.geeksforgeeks.org/count-numbers-divisible-m-given-range/ 
 
 ## Tree Questions of Samsung!
@@ -91,23 +91,23 @@ https://www.geeksforgeeks.org/level-order-tree-traversal/
 https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/
 9) Kth largest element in BST
 https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/
-10)Left View of Binary Tree
+10) Left View of Binary Tree
 https://www.geeksforgeeks.org/print-left-view-binary-tree/
-11)Right View of Binary Tree
+11) Right View of Binary Tree
 https://www.geeksforgeeks.org/print-right-view-binary-tree-2/
-12)Top View of Binary Tree
+12) Top View of Binary Tree
 https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/
-13)Bottom View of Binary Tree
+13) Bottom View of Binary Tree
 https://www.geeksforgeeks.org/bottom-view-binary-tree/
-14)Binary Tree K level sum
+14) Binary Tree K level sum
 https://www.geeksforgeeks.org/sum-nodes-k-th-level-tree-represented-string/
-15)Delete a node from BST
+15) Delete a node from BST
 https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
-16)Insert a node in a BST
+16) Insert a node in a BST
 https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
-17)Largest BST
+17) Largest BST
 https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/
-18)Check for BST
+18) Check for BST
 https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/
 
 ## Graph Questions of Samsung!
@@ -129,19 +129,19 @@ https://discuss.codechef.com/t/dijkstars-algo-to-find-shortest-path-from-1-to-n/
 https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
 9) BFS of graph
 https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
-10)Minimum Cost Path
+10) Minimum Cost Path
 https://www.geeksforgeeks.org/min-cost-path-dp-6/
-11)Bipartite Graph
+11) Bipartite Graph
 https://www.geeksforgeeks.org/bipartite-graph/
-12)Topological sort
+12) Topological sort
 https://www.geeksforgeeks.org/topological-sorting/
-13)Find the number of islands
+13) Find the number of islands
 https://www.geeksforgeeks.org/find-number-of-islands/
-14)Detect cycle in an undirected graph
+14) Detect cycle in an undirected graph
 https://www.geeksforgeeks.org/detect-cycle-undirected-graph/
-15)Shortest Source to Destination Path
+15) Shortest Source to Destination Path
 https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/   
-16)Detect cycle in a directed graph
+16) Detect cycle in a directed graph
 https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
 
 ## Dynamic Programming Questions of Samsung!
@@ -197,15 +197,15 @@ https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/
 https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
 9) Next greater number set digits
 https://www.geeksforgeeks.org/find-next-greater-number-set-digits/
-10)Heap Sort
+10) Heap Sort
 https://www.geeksforgeeks.org/heap-sort/
-11)Sort an array of 0s, 1s and 2s
+11) Sort an array of 0s, 1s and 2s
 https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
-12)Quick Sort
+12) Quick Sort
 https://www.geeksforgeeks.org/quick-sort/
-13)k largest elements
+13) k largest elements
 https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/
-14)Smallest Positive missing number
+14) Smallest Positive missing number
 https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/
 
 ## Array, String, Stack Questions of Samsung!
@@ -228,17 +228,17 @@ https://www.geeksforgeeks.org/the-stock-span-problem/
 https://www.geeksforgeeks.org/factorial-large-number/
 9) Longest Palindrome Substring
 https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
-10)Triplet Sum in Array
+10) Triplet Sum in Array
 https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/
-11)Next larger element
+11) Next larger element
 https://www.geeksforgeeks.org/next-greater-element/
-12)Kadane's Algorithm
+12) Kadane's Algorithm
 https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
-13)Stock buy and sell
+13) Stock buy and sell
 https://www.geeksforgeeks.org/stock-buy-sell/
-14)String Reversal
+14) String Reversal
 https://www.geeksforgeeks.org/reverse-a-string-in-c-cpp-different-methods/
-15)Palindrome
+15) Palindrome
 https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/
 
 ## Matrix Questions of Samsung!
