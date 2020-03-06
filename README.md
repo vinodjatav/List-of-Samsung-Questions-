@@ -1,7 +1,6 @@
-# List-of-Samsung-Questions-
-Same Important Question Previously Asked by Samsung!
+# Same Important Question Previously Asked by Samsung!
 
-Link List Questions of Samsung!
+## Link List Questions of Samsung!
 
 1) Delete a Node from linked list without head pointer
 https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointer/
@@ -26,7 +25,7 @@ https://www.geeksforgeeks.org/lru-cache-implementation/
 11)Detect Loop in linked list
 https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
 
-Bit Magic Questions of Samsung!
+## Bit Magic Questions of Samsung!
 
 1) Count set bits in an integer
 https://www.geeksforgeeks.org/count-set-bits-in-an-integer/
@@ -39,7 +38,7 @@ https://www.geeksforgeeks.org/change-even-bits-number-0/
 5) Program to find whether a no is power of two
 https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
 
-Mathematics Questions of Samsung!
+## Mathematics Questions of Samsung!
 
 1) Swap two numbers without using third variable
 https://www.javatpoint.com/c-program-to-swap-two-numbers-without-using-third-variable
@@ -73,7 +72,7 @@ https://www.geeksforgeeks.org/number-of-palindromic-paths-in-a-matrix/
 15)Count numbers divisible by M
 https://www.geeksforgeeks.org/count-numbers-divisible-m-given-range/ 
 
-Tree Questions of Samsung!
+## Tree Questions of Samsung!
 
 1) Mirror Tree
 https://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree
@@ -114,7 +113,7 @@ https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/
 18)Check for BST
 https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/
 
-Graph Questions of Samsung!
+## Graph Questions of Samsung!
 
 1) Unit Area of largest region of 1's
 https://www.geeksforgeeks.org/find-length-largest-region-boolean-matrix/
@@ -148,7 +147,7 @@ https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/
 16)Detect cycle in a directed graph
 https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
 
-Dynamic Programming Questions of Samsung!
+## Dynamic Programming Questions of Samsung!
 
 1) Minimum sum partition
 https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset
@@ -168,7 +167,7 @@ https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
 8) Number of Coins
 https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/Recursion 
 
-Questions of Samsung!
+## Questions of Samsung!
 
 1) Permutations of a given string
 https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
@@ -177,12 +176,12 @@ https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/
 3) Recursively remove all adjacent duplicates
 https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/
 
-Backtracking Questions of Samsung!
+## Backtracking Questions of Samsung!
 
 1) M-Coloring Problem
 https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/
 
-Sorting Searching Questions of Samsung!
+## Sorting Searching Questions of Samsung!
 
 1) Leaders in an array
 https://www.geeksforgeeks.org/leaders-in-an-array/
@@ -213,7 +212,7 @@ https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/
 14)Smallest Positive missing number
 https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/
 
-Array, String, Stack Questions of Samsung!
+## Array, String, Stack Questions of Samsung!
 
 1) Implement two stacks in an array
 https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/2) Reverse words in a given string
@@ -245,7 +244,7 @@ https://www.geeksforgeeks.org/reverse-a-string-in-c-cpp-different-methods/
 15)Palindrome
 https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/
 
-Matrix Questions of Samsung!
+## Matrix Questions of Samsung!
 
 1) C++ Matrix Rotation by 90 degree
 https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
@@ -260,7 +259,7 @@ https://www.geeksforgeeks.org/count-sorted-rows-matrix/
 6) Maximum sum Rectangle
 https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/
 
-Miscellaneous Questions of Samsung!
+## Miscellaneous Questions of Samsung!
 
 1) Travelling Salesman Problem
 https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/
