@@ -65,8 +65,7 @@ https://www.geeksforgeeks.org/find-nth-magic-number/
 12)Multiply two polynomials
 https://www.geeksforgeeks.org/multiply-two-polynomials-2/
 13)Pattern Jumping
-https://www.geeksforgeeks.org/print-all-jumping-numbers-smaller-than-or-equal-to-a-given-valu
-e
+https://www.geeksforgeeks.org/print-all-jumping-numbers-smaller-than-or-equal-to-a-given-value
 14)Number of Palindromic paths in a Matrix
 https://www.geeksforgeeks.org/number-of-palindromic-paths-in-a-matrix/
 15)Count numbers divisible by M
@@ -75,8 +74,7 @@ https://www.geeksforgeeks.org/count-numbers-divisible-m-given-range/
 ## Tree Questions of Samsung!
 
 1) Mirror Tree
-https://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree
-/
+https://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/
 2) K distance from root
 https://www.geeksforgeeks.org/print-nodes-at-k-distance-from-root/
 3) Unique BST's
@@ -92,8 +90,7 @@ https://www.geeksforgeeks.org/level-order-tree-traversal/
 8) Min distance between two given nodes of a Binary Tree
 https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/
 9) Kth largest element in BST
-https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allow
-ed/
+https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/
 10)Left View of Binary Tree
 https://www.geeksforgeeks.org/print-left-view-binary-tree/
 11)Right View of Binary Tree
@@ -150,8 +147,7 @@ https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
 ## Dynamic Programming Questions of Samsung!
 
 1) Minimum sum partition
-https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset
--sums-is-minimum/
+https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
 2) Largest square formed in a matrix
 https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
 3) Coin Change
@@ -165,9 +161,9 @@ https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
 7) Longest Increasing Subsequence
 https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
 8) Number of Coins
-https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/Recursion 
+https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/
 
-## Questions of Samsung!
+## Recursion Questions of Samsung!
 
 1) Permutations of a given string
 https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
@@ -215,7 +211,8 @@ https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-
 ## Array, String, Stack Questions of Samsung!
 
 1) Implement two stacks in an array
-https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/2) Reverse words in a given string
+https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/
+2) Reverse words in a given string
 https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
 3) Infix to Postfix
 https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
