@@ -112,32 +112,32 @@ https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/
 
 ## Graph Questions of Samsung!
 
-1) Unit Area of largest region of 1's\
-https://www.geeksforgeeks.org/find-length-largest-region-boolean-matrix/
+1) BFS of graph\
+https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
 2) DFS of Graph\
 https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
-3) Implementing Dijkstra | Set 1 (Adjacency Matrix)\
-https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
-4) Find whether path exist\
-https://www.geeksforgeeks.org/find-whether-path-two-cells-matrix/
+3) Find the number of islands\
+https://www.geeksforgeeks.org/find-number-of-islands/
+4) Unit Area of largest region of 1's\
+https://www.geeksforgeeks.org/find-length-largest-region-boolean-matrix/
 5) Floyd Warshall\
 https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
-6) Rotten Oranges\
-https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/
+6) Find whether path exist\
+https://www.geeksforgeeks.org/find-whether-path-two-cells-matrix/
 7) Shortest path from 1 to n\
 https://discuss.codechef.com/t/dijkstars-algo-to-find-shortest-path-from-1-to-n/11247
 8) Minimum Spanning Tree\
 https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
-9) BFS of graph\
-https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+9) Implementing Dijkstra | Set 1 (Adjacency Matrix)\
+https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 10) Minimum Cost Path\
 https://www.geeksforgeeks.org/min-cost-path-dp-6/
 11) Bipartite Graph\
 https://www.geeksforgeeks.org/bipartite-graph/
 12) Topological sort\
 https://www.geeksforgeeks.org/topological-sorting/
-13) Find the number of islands\
-https://www.geeksforgeeks.org/find-number-of-islands/
+13) Rotten Oranges\
+https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/
 14) Detect cycle in an undirected graph\
 https://www.geeksforgeeks.org/detect-cycle-undirected-graph/
 15) Shortest Source to Destination Path\
