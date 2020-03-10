@@ -1,4 +1,4 @@
-# Same Important Question Previously Asked by Samsung!
+# Some Important Questions Previously Asked by Samsung!
 
 ## Link List Questions of Samsung!
 
